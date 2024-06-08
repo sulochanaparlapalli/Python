@@ -1,2 +1,2 @@
 # TASK 4
-About python project.
+Rock Paper Scissors.
